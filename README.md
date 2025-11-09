@@ -1,6 +1,6 @@
 # 💰 Budget Buddy — Smart Budgeting for Everyone
 
-**Live Demo:** [https://your-username.github.io/budget-buddy/](https://your-username.github.io/budget-buddy/)  
+**Live Demo:** [https://charity553.github.io/budget-buddy/](https://charity553.github.io/budget-buddy/)  
 **Pitch Deck:** [View on Gamma](https://gamma.app/docs/Budget-Buddy-6b8hv3c4xlxxg73)
 
 ---
